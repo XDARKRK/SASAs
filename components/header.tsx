@@ -15,7 +15,7 @@ export function Header() {
           <Link href="#servicios" className="text-sm font-medium hover:text-primary transition-colors">
             Servicios
           </Link>
-          <Link href="#nosotros" className="text-sm font-medium hover:text-primary transition-colors">
+          <Link href="/nosotros" className="text-sm font-medium hover:text-primary transition-colors">
             Nosotros
           </Link>
           <Link href="#precios" className="text-sm font-medium hover:text-primary transition-colors">
