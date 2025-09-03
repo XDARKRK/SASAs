@@ -13,7 +13,7 @@ export function CTASection() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Button asChild size="lg" variant="secondary" className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="mailto:contacto@xdarklegal.com" className="inline-flex items-center gap-2">
+            <a href="mailto:xdark170@gmail.com" className="inline-flex items-center gap-2">
               <Mail className="h-4 w-4" />
               Enviar Email
               <ArrowRight className="h-4 w-4" />

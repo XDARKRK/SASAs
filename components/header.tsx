@@ -25,7 +25,7 @@ export function Header() {
             FAQ
           </Link>
           <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90">
-            <a href="mailto:contacto@xdarklegal.com">Contactar</a>
+            <a href="mailto:xdark170@gmail.com">Contactar</a>
           </Button>
         </nav>
       </div>

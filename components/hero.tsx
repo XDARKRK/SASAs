@@ -15,7 +15,7 @@ export function Hero() {
             </p>
             <div className="space-y-4">
               <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
-                <a href="mailto:contacto@xdarklegal.com" className="inline-flex items-center gap-2">
+                <a href="mailto:xdark170@gmail.com" className="inline-flex items-center gap-2">
                   Consulta Gratuita
                   <ArrowRight className="h-4 w-4" />
                 </a>
